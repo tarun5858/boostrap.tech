@@ -1,1 +1,1 @@
-# boostrap.tech
+# bootstrap.tech
